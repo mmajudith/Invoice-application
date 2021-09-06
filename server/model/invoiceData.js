@@ -4,7 +4,7 @@ export const data = [
         email: "johndoe@serviceprovider.com",
         invoiceNo: "# INV1122",
         time: "11:35AM",
-        noOfItems: 05,
+        noOfItems: 5,
         items: [
 
                 "Prawn & Chicken Sui Mai", 
@@ -27,7 +27,7 @@ export const data = [
         email: "Jeptpaul@serviceprovider.com",
         invoiceNo: "# INV1122",
         time: "11:35AM",
-        noOfItems: 03,
+        noOfItems: 3,
         items: [
 
                 "Prawn & Chicken Sui Mai", 
@@ -85,7 +85,7 @@ export const data = [
         email: "jose@serviceprovider.com",
         invoiceNo: "# INV1119",
         time: "11:35AM",
-        noOfItems: 07,
+        noOfItems: 7,
         items: [
 
                 "Prawn & Chicken Sui Mai", 
@@ -110,7 +110,7 @@ export const data = [
         email: "unknown@serviceprovider.com",
         invoiceNo: "# INV1118",
         time: "11:35AM",
-        noOfItems: 07,
+        noOfItems: 7,
         items: [
 
                 "Prawn & Chicken Sui Mai", 
@@ -135,7 +135,7 @@ export const data = [
         email: "unknown@serviceprovider.com",
         invoiceNo: "# INV1117",
         time: "11:35AM",
-        noOfItems: 07,
+        noOfItems: 7,
         items: [
 
                 "Prawn & Chicken Sui Mai", 
@@ -160,7 +160,7 @@ export const data = [
         email: "syvester@serviceprovider.com",
         invoiceNo: "# INV1116",
         time: "11:35AM",
-        noOfItems: 07,
+        noOfItems: 7,
         items: [
 
                 "Prawn & Chicken Sui Mai", 
@@ -185,7 +185,7 @@ export const data = [
         email: "unknown@serviceprovider.com",
         invoiceNo: "# INV1116",
         time: "11:35AM",
-        noOfItems: 07,
+        noOfItems: 7,
         items: [
 
                 "Prawn & Chicken Sui Mai", 
