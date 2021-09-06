@@ -2,11 +2,11 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 
-import postsRoute from './routes/posts.js';
+import invoicesRoute from './routes/invoices.js';
 
 const app = express();
 
-app.use('/posts', postsRoute)
+app.use('/invoices', invoicesRoute)
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
