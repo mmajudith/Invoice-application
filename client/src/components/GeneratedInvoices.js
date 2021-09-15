@@ -1,9 +1,14 @@
-import React from 'react'
-import { useDispatch } from 'react-redux'
+import React, { useState} from 'react'
+import { useSelector } from 'react-redux'
 
 function GeneratedInvoices() {
 
-    const dispatch = useDispatch();
+  const [invoices, setInvoices] = useState([]);
+
+  const fetchedInvoices = useSelector((state) => state.invoices)
+
+  console.log(fetchedInvoices)
+
 
   return (
     <div>
